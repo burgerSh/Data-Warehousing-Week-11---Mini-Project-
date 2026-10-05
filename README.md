@@ -45,12 +45,14 @@
 <img width="872" height="267" alt="image" src="https://github.com/user-attachments/assets/ba981cb2-4543-49ee-a1d0-ad2350d18590" />
 
 🛠️ เทคโนโลยีที่ใช้ (Tech Stack & Tools)
+
   Power BI Desktop: การออกแบบ Visual, Dashboard Layout และ Data Storytelling
   DAX (Data Analysis Expressions): สำหรับคำนวณค่าน้ำหนักอุบัติเหตุ, Cost Savings แบบ Dynamic และ What-If Parameter
   Power Query: การทำ Data Cleansing และ Transformation
   Data Modeling: สถาปัตยกรรมข้อมูลแบบ Star Schema
 
 📂 โครงสร้าง Repository (Repository Structure)
+
 ├── 📁 data/
 │   └── safety_incidents_dataset.csv     # ชุดข้อมูลอุบัติเหตุและความเสี่ยง
 ├── 📁 pbix/
@@ -61,6 +63,7 @@
 └── LICENSE                              # สิทธิ์การใช้งาน
 
 🎯 วิธีนำไปใช้งาน (How to Use)
+
   Clone หรือ Download Repository นี้ลงเครื่องคอมพิวเตอร์ของคุณ:
     git clone https://github.com/your-username/workplace-safety-roi-dashboard.git
   ดาวน์โหลดโปรแกรม Power BI Desktop (หากยังไม่มี)
